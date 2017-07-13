@@ -1,1 +1,1 @@
-                                         Albedo Engine©  powered by Albedo Technologies™ ®
+                                                Icarus Engine Official Repository
